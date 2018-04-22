@@ -1,4 +1,3 @@
-[![Workspace](https://codenvy.io/factory/resources/codenvy-contribute.svg)](https://codenvy.io/f?url=https://github.com/codenvy/docs)
 
 # codenvy-docs
 
